@@ -4,8 +4,8 @@ import board, game
 # %-------------------------------------------- Main  ------------------------------------% #
 def main():
     # Set GUI Settings
-    DIM       = 8                               # Board of (DIM X DIM)
-    LENGTH    = 512                             # Height and Width of the Board
+    DIM       = 8                                  # Board of (DIM X DIM)
+    LENGTH    = 512                                # Height and Width of the Board
     CELL_SIZE = LENGTH//DIM       
     MAX_FPS   = 60
     
