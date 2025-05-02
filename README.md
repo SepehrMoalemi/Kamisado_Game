@@ -24,16 +24,12 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
 ---
-
 ## 🧾 Requirements
 
 - Python 3.7 or newer
 - `pygame` version 2.0 or newer
-
 ---
-
 ## 📁 Project Structure
 
 ```
@@ -42,9 +38,7 @@ python main.py
 ├── game.py             # Game logic (rules, turns, win condition)
 └── board.py            # GUI rendering with Pygame
 ```
-
 ---
-
 ## 🛠 Features
 
 - Fully playable 2-player Kamisado
