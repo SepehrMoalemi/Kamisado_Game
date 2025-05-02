@@ -1,8 +1,9 @@
 # Kamisado GUI in Python
 
 A Python code to play [Kamisado](https://www.yucata.de/en/Rules/Kamisado) with a friend!
-![Kamisado Demo](Kamisado_demo.gif)
-
+<p align="center">
+  <img src="Kamisado_demo.gif" alt="Kamisado Demo" width="512"/>
+</p>
 
 ## ▶️ Installation
 ### 0. Create a Virtual Environment (Recommended)
