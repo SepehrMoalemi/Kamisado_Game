@@ -3,9 +3,6 @@
 A Python code to play [Kamisado](https://www.yucata.de/en/Rules/Kamisado) with a friend!
 
 ## ▶️ Installation
-Using Python's built-in `venv`:
-
-
 ### 0. Create a Virtual Environment (Recommended)
 ```bash
 python3 -m venv venv
